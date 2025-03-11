@@ -64,7 +64,7 @@ Your data should include at minimum:
 
 ## License
 
-MIT License
+[MIT License](LICENSE.md)
 
 ## Contributing
 
