@@ -39,9 +39,11 @@ install.packages(c("shiny", "leaflet", "readxl", "readr", "dplyr",
 
 ## Usage
 
+Visit https://biometryhub.shinyapps.io/ausmap/ for a live version, or alternatively, follow the steps below:
+
 1. Clone this repository or download the app.R file
 2. Open R or RStudio and set your working directory to the folder containing app.R
-3. Run the following command, or alternatively, visit https://biometryhub.shinyapps.io/ausmap/ for a live version.
+3. Run the following command:
 
 ```r
 shiny::runApp()
